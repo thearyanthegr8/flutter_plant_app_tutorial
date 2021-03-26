@@ -1,10 +1,10 @@
-# plant_app
+# Plant App Youtube Tutorial
 
-A new Flutter project.
+A Flutter app to get started into the IOS and Android app development
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Video that I followed: https://www.youtube.com/watch?v=LN668OAUrK4
 
 A few resources to get you started if this is your first Flutter project:
 
